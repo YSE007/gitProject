@@ -1,1 +1,1 @@
-
+const n = "Hi there"
