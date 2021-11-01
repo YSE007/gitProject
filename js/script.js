@@ -1,1 +1,6 @@
-const n = "Hi there"
+
+const a = 100 ;
+fun = myFunc () ; ();
+
+
+
